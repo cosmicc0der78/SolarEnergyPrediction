@@ -65,7 +65,7 @@ It captures temporal dependencies and spatial dynamics, making it more scalable 
 
 ## 📫 Contact
 
-**Indu Sree Nanapu**  
+**Indu Sree.N**  
 📧 [indusreen78@gmail.com](mailto:indusreen78@gmail.com)  
 🐙 [GitHub](https://github.com/cosmicc0der78)  
 
